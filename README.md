@@ -1,1 +1,2 @@
-## Treinamento - WTISC ##
+# spring-data-course
+REST service, for study purpose.
